@@ -14,4 +14,4 @@ To get started with this project, clone the repository and open the .java files 
 Contributions are welcome! Please read the contributing guidelines before making any changes.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under Abenezer License. See the LICENSE file for more details.
