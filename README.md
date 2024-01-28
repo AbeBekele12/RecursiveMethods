@@ -1,6 +1,6 @@
-# Recursive Methods Project
+# Recursive Methods 
 
-**Coursework at University of Wisconsin-River Falls for Data Structures and Algorithms**
+This repository showcases my coursework project completed at the University of Wisconsin-River Falls for the Data Structures and Algorithms course. It encompasses the implementation Recursive Methods
 
 ## Overview
 
