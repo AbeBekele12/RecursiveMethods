@@ -5,6 +5,7 @@ This project, developed by Abenezer Bekele, explores the implementation and util
 
 ## Files
 - `Driver.java`: This is the main driver program for the project.
+- `RecursiveMethods.java`: This file contains the implementation of various recursive methods. Each method demonstrates a different aspect of recursion, such as factorial calculation, Fibonacci sequence generation, or string reversal. The methods in this file are used throughout the project to solve problems in an efficient and elegant manner.
 - `Problem2.java`: This file contains the implementation of a specific problem using recursive methods.
 
 ## Getting Started
