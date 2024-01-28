@@ -1,4 +1,5 @@
 RecursiveMethods Package
+
 This package contains a Java class RecursiveMethods that provides various recursive methods for handling mines on a game board.
 
 Methods
